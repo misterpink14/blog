@@ -12,8 +12,8 @@ The following encompasses the settings and keymappings that I find useful as a s
 ### Open netrw
 
 + `:e <directory>` :  Open any directory in netrw
-+ `:Sexplere` :  Open netrw in a horizontal split (-)
-+ `:Vexplore` :  Open netrw in a vertical split (|)
++ `:Sexplere` :  Open netrw in a horizontal split \(-\)
++ `:Vexplore` :  Open netrw in a vertical split \(|\)
 + `:Explore` :  Open netrw in the current window
 
 ### Open a file in netrw

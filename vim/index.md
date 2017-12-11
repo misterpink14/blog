@@ -14,5 +14,5 @@ noremap <Right> <NOP>
 ```
 
 # Posts
-[netrw Basics](/vim/netrw-basics)
+[netrw Basics](/blog/vim/netrw-basics)
 

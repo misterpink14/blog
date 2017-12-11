@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to My Blog!
 
-You can use the [editor on GitHub](https://github.com/misterpink14/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a recent graduate from BYU (go Cougars!) and software developer for The Experience Management Platform, [Qualtrics](https://www.qualtrics.com/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This blog is intended to be a way to remind future me about the things that I've learned. I tend to spend way to much time Googling the same thing over and over again. I end up navigating multiple tutorials and aggregating information from them to learn something. Hopefully this will help save more time for someone other than myself.
 
-### Markdown
+I intend on displaying information in a format that suits me, hopefully it will also help a few other people out as well. As such, each blog post is mostly just notes about a specific topic. My eventual goal is to make this blog-worthy; but, for now, it will be pretty rough.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Topics
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/misterpink14/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ [vim](benthompson.me/blog/vim)
